@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 450px){
+    main {
+        width: 370px;
+    }
+
+    img#principal {
+        width: 330px;
+    }
+}
