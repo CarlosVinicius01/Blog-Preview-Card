@@ -1,2 +1,2 @@
 # Blog-Preview-Card
- Projeto do Frontend Mentor
+ Cartão de pré-visualização do blog - Desafio Frontend Mentor
