@@ -57,6 +57,7 @@ p#destaque {
 h1 {
     font-size: 1.3em;
     margin: 20px 10px;
+    font-weight: 800;
 }
 
 p#conteudo {
